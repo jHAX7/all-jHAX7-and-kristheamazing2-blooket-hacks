@@ -40,8 +40,8 @@ V.1.6
  
  
  
- ## Visitor Count
-  <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
+ ## views
+  <img src=https://profile-counter.glitch.me/all-jHAX7-and-kristheamazing2-blooket-hacks/count.svg
  
  
  
