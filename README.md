@@ -29,4 +29,11 @@ so that means they could be updating the theme of the website or even adding a n
 from the new burst of hackers that have appeared recently for e.g goosterV or glixzzers new hacks.
 
 
+<h2>Current Version
+ 
+V.1.6
+
+
+
+
 <h1>thanks for all the people using and helping our hacks:)
