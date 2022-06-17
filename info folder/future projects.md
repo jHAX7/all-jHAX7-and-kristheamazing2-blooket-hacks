@@ -13,4 +13,6 @@ infinity tokens (beta) (more info in our infinity tokens page)
 
 hacks for non blooket games like kahoot or readtheory (no coding started)
 
+blooket2.io (beta) (this will be a website like blacket you can view it on my profile but no files are in it just yet, expect some updates around late june to early july but don't expect the game to release until 2023)
+
 more games (info, if you didn't know me and kristheamazing2 have made our own games on game creating websites before like our most popular game mapcar)
