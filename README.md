@@ -27,3 +27,6 @@ another thing we would like to announce is that blooket has been glitching recen
 happening usually when a game website is down on somepeoples computers it means the company that owns the game is testing new UPDATED servers,
 so that means they could be updating the theme of the website or even adding a new box! or in the worst case scenario they could be removing hacks
 from the new burst of hackers that have appeared recently for e.g goosterV or glixzzers new hacks.
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
