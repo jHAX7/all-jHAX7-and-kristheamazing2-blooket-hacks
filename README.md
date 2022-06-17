@@ -40,6 +40,11 @@ V.1.6
  
  
  
+ ## Visitor Count
+  <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
+ 
+ 
+ 
 
 
 <h4>thanks for all the people using and helping our hacks:)
