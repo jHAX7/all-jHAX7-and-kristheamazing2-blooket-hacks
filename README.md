@@ -21,7 +21,7 @@ nordic regions
 
 australia
 
-there seems to be 9 more locations but right now me or kristheamazing2 can't locate them (we will notify you when we get there locations-this time should take a fewer days so be patient.
+there seems to be 9 more locations but right now me or kristheamazing2 can't locate them (we will notify you when we get there locations-this time should take a fewer days so be patient.)
 
 another thing we would like to announce is that blooket has been glitching recently worldwide for the first time in 6 months this means something big is
 happening usually when a game website is down on somepeoples computers it means the company that owns the game is testing new UPDATED servers,
