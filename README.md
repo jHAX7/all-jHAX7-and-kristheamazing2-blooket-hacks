@@ -1,4 +1,4 @@
-<h1>ATTENTION </h1> if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
+<h1>ATTENTION! it is not mine or kristheamazing2's fault if your blooket account gets banned! </h1> if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
 fellow blooket hackers incuding: glixzzy and goosterV.
 
 
