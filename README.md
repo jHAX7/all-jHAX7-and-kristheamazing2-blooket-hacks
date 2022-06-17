@@ -41,7 +41,7 @@ V.1.6
  
  
  ## views
-  <img src=https://profile-counter.glitch.me/all-jHAX7-and-kristheamazing2-blooket-hacks/count.svg
+  <img src="https://profile-counter.glitch.me/all-jHAX7-and-kristheamazing2-blooket-hacks/count.svg" />
  
  
  
