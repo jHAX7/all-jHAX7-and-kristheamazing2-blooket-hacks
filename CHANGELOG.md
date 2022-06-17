@@ -2,15 +2,15 @@
   
   <h5>
   
-  -updated in game hacks (updated by theamazingkris2)
+  - updated in game hacks (updated by theamazingkris2)
   
-  -created license (added by jHAX7)
+  - created license (added by jHAX7)
   
-  -updated README.md (added by theamazingkris2 and jHAX7)
+  - updated README.md (added by theamazingkris2 and jHAX7)
   
-  -added INDEX.js (added by jHAX7)
+  - added INDEX.js (added by jHAX7)
   
-  -moved all .md excluding README to info folder (moved by jHAX7)
+  - moved all .md excluding README to info folder (moved by jHAX7)
   
   
   
