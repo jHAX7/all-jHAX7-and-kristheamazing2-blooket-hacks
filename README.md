@@ -1,4 +1,4 @@
-ATTENTION if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
+<h1>ATTENTION 1</h1> if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
 fellow blooket hackers incuding: glixzzy and goosterV.
 
 
@@ -28,5 +28,4 @@ happening usually when a game website is down on somepeoples computers it means 
 so that means they could be updating the theme of the website or even adding a new box! or in the worst case scenario they could be removing hacks
 from the new burst of hackers that have appeared recently for e.g goosterV or glixzzers new hacks.
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
