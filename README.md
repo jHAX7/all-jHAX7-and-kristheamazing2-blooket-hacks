@@ -1,4 +1,4 @@
-ATTENTION if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks from blooket and UPDATE older blooket hacks from our 
+ATTENTION if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
 fellow blooket hackers incuding: glixzzy and goosterV.
 
 
