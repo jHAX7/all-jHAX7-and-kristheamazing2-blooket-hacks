@@ -10,7 +10,7 @@
   
   - added INDEX.js (added by jHAX7)
   
-  - moved all .md excluding README to info folder (moved by jHAX7)
+  - moved all .md files excluding README to info folder (moved by jHAX7)
   
   - changed name of dashboard/marketplace-hacks to homeScreen-and-Market-hacks 
   
