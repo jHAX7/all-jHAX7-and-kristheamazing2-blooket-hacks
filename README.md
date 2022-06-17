@@ -1,4 +1,4 @@
-<h1>ATTENTION 1</h1> if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
+<h1>ATTENTION </h1> if you are confused about what me and kristheamazing do we make our own ORIGINAL hacks for blooket and UPDATE older blooket hacks from our 
 fellow blooket hackers incuding: glixzzy and goosterV.
 
 
@@ -29,3 +29,4 @@ so that means they could be updating the theme of the website or even adding a n
 from the new burst of hackers that have appeared recently for e.g goosterV or glixzzers new hacks.
 
 
+<h1>thanks for all the people using and helping our hacks:)
