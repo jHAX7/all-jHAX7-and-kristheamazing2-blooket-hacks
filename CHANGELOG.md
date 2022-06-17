@@ -1,4 +1,4 @@
-<h1>V1.6, NEWEST FEATURES.
+<h1>V1.6, NEWEST UPDATE.
   
   <h5>
   
