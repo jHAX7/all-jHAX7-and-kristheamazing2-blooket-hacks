@@ -1,6 +1,6 @@
 <h1>V1.6, NEWEST FEATURES.
   
-  
+  <h5>
   
   -updated in game hacks (updated by theamazingkris2)
   
@@ -17,8 +17,10 @@
   
   <h1>V1.5.
     
- 
+ <h5>
   
+  - added more in game hacks (added by theamazingkris2)
+
   - added more in game hacks (added by theamazingkris2)
     
   - added info folder (added by jHAX7)
@@ -33,7 +35,7 @@
   
   <h1>V1.4.
     
-  
+  <h5>
     
   - created ultimate hack-date release (added by theamazingkris2)
     
@@ -49,7 +51,7 @@
     
   <h1>V1.3.
     
- 
+ <h5>
     
   - added flynn mcguigan as a employee at our physical office (approved by theamazingkris2 and jHAX7)
     
@@ -66,7 +68,7 @@
  
  <h1>V1.2.
    
- 
+ <h5>
 
    
  - added in game hacks folder (added by theamazingkris2 and jHAX7)
@@ -80,7 +82,7 @@
    
  <h1>v1.1.
    
-
+<h5>
    
  - added goosterV hack (added by jHAX7)
    
@@ -89,7 +91,7 @@
    
   <h1>v1.
     
-    
+    <h5>
 
  - created github page (created by jHAX7)   
 
