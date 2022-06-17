@@ -1,6 +1,6 @@
 #ALERT! infinite tokens is still in BETA!
 
-infinite tokens is a project started and inspired by two of our workers (kris) and (flyyn)
+infinite tokens is a project started and inspired by two of our workers (kris - kristheamazing2) and (flynn - profile not made)
 
 infinite tokens plans on giving users infinite tokens in blooket allthough this seems impossible due to blooket having a daily token limit.
 
