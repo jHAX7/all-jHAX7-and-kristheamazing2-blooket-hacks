@@ -12,6 +12,7 @@
   
   - moved all .md excluding README to info folder (moved by jHAX7)
   
+  - changed name of dashboard/marketplace-hacks to homeScreen-and-Market-hacks 
   
   
   
@@ -45,7 +46,7 @@
    
   - added concept of infinite tokens folder (added by jHAX7)
   
-  - moved dashboard/marketplace hacks to dashboard/marketplace folder
+  - moved dashboard/marketplace-hacks to dashboard/marketplace folder
     
   - created dashboard/marketplace folder (created by jHAX7)  
     
@@ -63,7 +64,7 @@
     
   - moved all in game hacks to in game hacks folder (moved by jHAX7)
     
-  - added dashboard/marketplace hacks (added by theamazingkris2)  
+  - added dashboard/marketplace-hacks (added by theamazingkris2)  
     
  
  <h1>V1.2.
