@@ -7,4 +7,4 @@ james (username jHAX7) - Creator
 
 flynn (no profile created yet) - Coming Soon???
 
-<h1>BREAKING NEWS! we will slow our production down hugely in 2023 due to one of our contributers leaving the project
+<h1>BREAKING NEWS! flynn will get a github profile on monday!
