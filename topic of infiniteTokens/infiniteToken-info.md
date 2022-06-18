@@ -1,4 +1,4 @@
-#ALERT! infinite tokens is still in BETA!
+<h1>ALERT! <h5> infinite tokens is still in BETA!
 
 infinite tokens is a project started and inspired by two of our workers (kris - kristheamazing2) and (flynn - profile not made)
 
