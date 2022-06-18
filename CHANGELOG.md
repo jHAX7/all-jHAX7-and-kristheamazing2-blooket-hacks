@@ -6,7 +6,7 @@
   
   - created license (added by jHAX7)
   
-  - updated README.md (added by theamazingkris2 and jHAX7)
+  - updated README.md (added by kristheamazing2 and jHAX7)
   
   - added INDEX.js (added by jHAX7)
   
