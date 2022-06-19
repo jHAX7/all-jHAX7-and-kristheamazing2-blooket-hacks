@@ -1,4 +1,6 @@
-<h1>V1.6, NEWEST UPDATE.
+
+
+<h1>V1.6., NEWEST UPDATE.                                                        
   
   <h5>
   
@@ -12,7 +14,9 @@
   
   - moved all .md files excluding README to info folder (moved by jHAX7)
   
-  - changed name of dashboard/marketplace-hacks to homeScreen-and-Market-hacks 
+  - changed name of dashboard/marketplace-hacks to homeScreen-and-Market-hacks (changed by kristheamazing2's)
+  
+  - kristheamazing2's blooket account got BANNED
   
   
   
