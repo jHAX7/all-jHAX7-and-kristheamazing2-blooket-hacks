@@ -7,7 +7,7 @@ fellow blooket hackers incuding: glixzzy and goosterV.
 <h1> chek out kristheamazing2's hacks and backup hacks at https://github.com/kristheamazing2/kristheamazing2-blookethacks
 
 
-<h6> if you are one of the people who made the original hacks we use on this page and are angry because you think we copied you or stole some of your code please tell us and we can take them down or credit you in a text box of the code thanks:)
+<h5> if you are one of the people who made the original hacks we use on this page and are angry because you think we copied you or stole some of your code please tell us and we can take them down or credit you in a text box of the code thanks:)
 if you want to join our team please tell us in the issues tab and we will send you a google forms page.
 if blooket.com takes us down we will upload a copy of these hacks on a new user named BlooketHacksBackup.
 if you have any questions leave them in our issues tab.
