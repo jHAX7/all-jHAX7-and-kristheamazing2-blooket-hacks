@@ -7,4 +7,4 @@ james (username jHAX7) - Creator
 
 flynn (no profile created yet) - Coming Soon???
 
-<h1>BREAKING NEWS! flynn will get a github profile on monday!
+<h1>flynn will get a github profile on monday!
