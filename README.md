@@ -2,7 +2,9 @@
 fellow blooket hackers incuding: glixzzy and goosterV.
 
 
-chek out kristheamazing2's hacks and backup hacks at https://github.com/kristheamazing2/kristheamazing2-blookethacks
+
+
+<h1> chek out kristheamazing2's hacks and backup hacks at https://github.com/kristheamazing2/kristheamazing2-blookethacks
 
 
 if you are one of the people who made the original hacks we use on this page and are angry because you think we copied you or stole some of your code please tell us and we can take them down or credit you in a text box of the code thanks:)
