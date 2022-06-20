@@ -1022,4 +1022,4 @@ addUtils();
 setInterval(() => {
     CheckGame();
 }, 10000);
-window.alert("Made By kristheamazing2 and jHAX7.");
+window.alert("Made By kristheamazing2 and jHAX7. (with help from other sources)");
