@@ -108,7 +108,7 @@ function addtokens(event) {
                         addedTokens: 500,
                         addedXp: 300
                     }, e.secret)
-                }).then(() => alert('Added daily rewawrds!')).catch(() => alert('There was an error when adding rewards!'));
+                }).then(() => alert('Added daily tokens and XP!')).catch(() => alert('There was an error when adding rewards!'));
             }).catch(() => alert('There was an error encoding requests!'));
         }).catch(() => alert('There was an error getting username!'));
         window.console.clear()
